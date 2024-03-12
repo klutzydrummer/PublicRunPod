@@ -1,3 +1,1 @@
-git clone https://github.com/username/repo.git
-username : klutzydrummer
-password : $GITHUB_TOKEN
+git clone https://$GITHUB_TOKEN@github.com/username/repo.git
