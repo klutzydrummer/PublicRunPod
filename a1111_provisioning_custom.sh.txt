@@ -32,6 +32,8 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
+    "https://civitai.com/api/download/models/501240"
+    "https://civitai.com/api/download/models/143906"
     "https://civitai.com/api/download/models/511677"
     #"https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
